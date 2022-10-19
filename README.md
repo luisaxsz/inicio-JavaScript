@@ -1,2 +1,2 @@
 # Iniciando
-Desafios das aulas do Gustavo Guanabara que eu faço quando estou estudando uma linguagem nova e estou no início
+Dessafios e mini projetos que faço quando to estudando para testar meus conhecimentos 
