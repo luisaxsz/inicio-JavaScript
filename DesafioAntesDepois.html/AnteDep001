@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Antecessor e Sucessor</title>
+  </head>
+  <body>
+    <h1>Antes e Depois</h1>
+    <button id="veja" onclick="veja()">Antecessor e sucessor</button>
+    <script>
+      function veja() {
+        let num = window.prompt('Digite um numero')
+        let numfor = parseInt(num)
+        let antecessor = numfor - 1
+        let sucessor = numfor + 1
+        let res = window.alert(
+          `Esse é o antecessor: ${antecessor} e esse é o sucessor: ${sucessor}`
+        )
+      }
+    </script>
+  </body>
+</html>
