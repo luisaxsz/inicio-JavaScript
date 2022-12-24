@@ -1,2 +1,2 @@
 # Iniciando
-Projetos feitos por cursos fora da faculdade 
+Projetos feitos por mim com conhecimentos adquiridos de cursos fora da faculdade 
