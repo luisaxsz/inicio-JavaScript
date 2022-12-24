@@ -1,0 +1,22 @@
+input {
+    margin-top: 10px;
+  }
+  button {
+    margin-top: 10px;
+    border-style: hidden;
+    border-radius: 20px;
+    background-color: #e556c6;
+    color: white;
+  }
+  #container {
+    background-color: rgb(140, 45, 181);
+    text-align: center;
+    width: 70%;
+    height: 200px;
+    margin: auto;
+  }
+  p {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+  }
