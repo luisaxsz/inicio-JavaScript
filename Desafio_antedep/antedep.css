@@ -1,0 +1,17 @@
+#container{
+    background-color: rgb(196, 137, 250);
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+}
+button{
+    background-color: rgb(255, 192, 203);
+    border-style: hidden;
+    border-radius: 10px;
+}
+#numr{
+    border-style: hidden;
+    border-radius: 5px;
+}
