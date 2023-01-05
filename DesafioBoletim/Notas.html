@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boletim</title>
+    <link rel="stylesheet" href="boletim.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Boletim do aluno</h1>
+    </header>
+    <section class="section">
+      <div class="container">
+        <div class="input">
+          <label for="aluno">Aluno(a):</label><input id="aluno" type="text" />
+        </div>
+        <div class="input">
+          <label for="nota1">Primeira nota:</label
+          ><input id="nota1" type="number" />
+        </div>
+        <div class="input">
+          <label for="nota2">Segunda nota:</label
+          ><input id="nota2" type="number" />
+        </div>
+        <div class="input">
+          <button id="button" onclick="verificar()">Verificar situação</button>
+        </div>
+        <div id="resposta"></div>
+      </div>
+    </section>
+    <footer></footer>
+    <script src="notas.js"></script>
+  </body>
+</html>
