@@ -1,2 +1,3 @@
-# Iniciando
-Projetos feitos por mim com conhecimentos adquiridos de cursos fora da faculdade 
+# Curso em Video -> JavaScript
+Desafios e projetos feitos com base no curso de JavaScript (40 Horas) do Gustavo Guanabara
+Curso finalizado 
